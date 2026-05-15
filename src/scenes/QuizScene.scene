@@ -1,0 +1,33 @@
+{
+    "id": "99ba7785-835f-429d-8b36-eaacb66894f8",
+    "sceneType": "SCENE",
+    "settings": {
+        "exportClass": true,
+        "autoImport": true,
+        "importFileExtension": true,
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "QuizScene",
+        "borderWidth": 1536,
+        "borderHeight": 1024
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "2ee335af-2b9e-4046-b903-d2cb3f791c08",
+            "label": "background",
+            "texture": {
+                "key": "ChatGPT Image May 7, 04_game_play"
+            },
+            "x": 768,
+            "y": 512
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor - Scene Editor",
+        "url": "https://phaser.io/editor",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 5
+    }
+}

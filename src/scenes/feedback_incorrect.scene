@@ -1,0 +1,33 @@
+{
+    "id": "d348ad5e-a580-4ad2-8e47-86aebfab1ac3",
+    "sceneType": "SCENE",
+    "settings": {
+        "exportClass": true,
+        "autoImport": true,
+        "importFileExtension": true,
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "feedback_incorrect",
+        "borderWidth": 1536,
+        "borderHeight": 1024
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "102734da-0a03-44ce-babe-ab4075b86e85",
+            "label": "background",
+            "texture": {
+                "key": "ChatGPT Image May 7, 06_feedback_incorrect"
+            },
+            "x": 768,
+            "y": 512
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor - Scene Editor",
+        "url": "https://phaser.io/editor",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 5
+    }
+}

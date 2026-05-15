@@ -1,0 +1,33 @@
+{
+    "id": "c43432c8-7f5a-4f77-a0ea-024e435c73ae",
+    "sceneType": "SCENE",
+    "settings": {
+        "exportClass": true,
+        "autoImport": true,
+        "importFileExtension": true,
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "JourneyMapScene",
+        "borderWidth": 1536,
+        "borderHeight": 1024
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "3f31bcc9-16e0-49af-80ff-79145806c7a1",
+            "label": "background",
+            "texture": {
+                "key": "ChatGPT Image May 7, 02_journey_map2"
+            },
+            "x": 768,
+            "y": 512
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor - Scene Editor",
+        "url": "https://phaser.io/editor",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 5
+    }
+}

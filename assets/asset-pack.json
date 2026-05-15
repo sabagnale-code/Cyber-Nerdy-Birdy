@@ -1,0 +1,84 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/images/screens/ChatGPT Image May 7, 01_title_intro.png",
+                "type": "image",
+                "key": "ChatGPT Image May 7, 01_title_intro"
+            },
+            {
+                "url": "assets/images/screens/ChatGPT Image May 7, 07_progress_screen.png",
+                "type": "image",
+                "key": "ChatGPT Image May 7, 07_progress_screen"
+            },
+            {
+                "url": "assets/images/screens/ChatGPT Image May 7, 08_badges_screen.png",
+                "type": "image",
+                "key": "ChatGPT Image May 7, 08_badges_screen"
+            },
+            {
+                "url": "assets/images/screens/ChatGPT Image May 7, 09_btm_nav_area.png",
+                "type": "image",
+                "key": "ChatGPT Image May 7, 09_btm_nav_area"
+            },
+            {
+                "url": "assets/dino.png",
+                "key": "dino",
+                "type": "image"
+            },
+            {
+                "url": "assets/images/screens/feedback_correct_background.png",
+                "type": "image",
+                "key": "feedback_correct_background"
+            },
+            {
+                "url": "assets/images/screens/feedback_incorrect_bg_no_alert_icon.png",
+                "type": "image",
+                "key": "feedback_incorrect_bg_no_alert_icon"
+            },
+            {
+                "url": "assets/images/screens/journey_map_bg_no_islands.png",
+                "type": "image",
+                "key": "journey_map_bg_no_islands"
+            },
+            {
+                "url": "assets/journey_map_section_1.png",
+                "type": "image",
+                "key": "journey_section_1"
+            },
+            {
+                "url": "assets/journey_map_section_2.png",
+                "type": "image",
+                "key": "journey_section_2"
+            },
+            {
+                "url": "assets/journey_map_section_3.png",
+                "type": "image",
+                "key": "journey_section_3"
+            },
+            {
+                "url": "assets/journey_map_section_4.png",
+                "type": "image",
+                "key": "journey_section_4"
+            },
+            {
+                "url": "assets/images/screens/level_2_PhishingEmailsScene.png",
+                "type": "image",
+                "key": "level_2_PhishingEmailsScene"
+            },
+            {
+                "url": "assets/images/screens/QuizScene_PhishingEmailsScene_no_text.png",
+                "type": "image",
+                "key": "QuizScene_PhishingEmailsScene_no_text"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false,
+        "visible": true
+    }
+}
