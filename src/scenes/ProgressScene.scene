@@ -1,0 +1,33 @@
+{
+    "id": "eb8d1743-7cda-4b0a-bc7b-9982d72151e6",
+    "sceneType": "SCENE",
+    "settings": {
+        "exportClass": true,
+        "autoImport": true,
+        "importFileExtension": true,
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "ProgressScene",
+        "borderWidth": 1536,
+        "borderHeight": 1024
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "a448b9f6-947e-48c0-a4d5-78587b1ba314",
+            "label": "background",
+            "texture": {
+                "key": "ChatGPT Image May 7, 07_progress_screen"
+            },
+            "x": 768,
+            "y": 512
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor - Scene Editor",
+        "url": "https://phaser.io/editor",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 5
+    }
+}

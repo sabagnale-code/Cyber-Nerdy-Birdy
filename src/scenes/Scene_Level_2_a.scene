@@ -1,0 +1,33 @@
+{
+    "id": "f6e26941-35b4-4602-b905-b31a8e16d772",
+    "sceneType": "SCENE",
+    "settings": {
+        "exportClass": true,
+        "autoImport": true,
+        "importFileExtension": true,
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "Scene_Level_2_a",
+        "borderWidth": 1536,
+        "borderHeight": 1024
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "7ba7bb63-0db8-48f3-bf50-ba91bdece542",
+            "label": "quizScene_PhishingEmailsScene_no_text",
+            "texture": {
+                "key": "QuizScene_PhishingEmailsScene_no_text"
+            },
+            "x": 747,
+            "y": 478
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor - Scene Editor",
+        "url": "https://phaser.io/editor",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 5
+    }
+}

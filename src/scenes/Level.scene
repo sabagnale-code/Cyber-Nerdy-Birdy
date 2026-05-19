@@ -1,0 +1,33 @@
+{
+    "id": "01aefa93-6044-4159-8358-7e91310aa05f",
+    "sceneType": "SCENE",
+    "settings": {
+        "exportClass": true,
+        "autoImport": true,
+        "importFileExtension": true,
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "PhishingEmailsScene",
+        "borderWidth": 1536,
+        "borderHeight": 1024
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "6e465b26-5961-4eff-bf45-10ea94c892bf",
+            "label": "background",
+            "texture": {
+                "key": "ChatGPT Image May 7, 03_level_intro"
+            },
+            "x": 768,
+            "y": 512
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor - Scene Editor",
+        "url": "https://phaser.io/editor",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 5
+    }
+}

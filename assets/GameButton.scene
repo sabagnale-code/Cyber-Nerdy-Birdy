@@ -1,0 +1,65 @@
+{
+    "id": "a9f49c76-bd4d-4300-886a-c25fe150b8fb",
+    "sceneType": "PREFAB",
+    "settings": {
+        "exportClass": true,
+        "autoImport": true,
+        "importFileExtension": true,
+        "preloadMethodName": "",
+        "preloadPackFiles": [],
+        "createMethodName": "",
+        "borderWidth": 1536,
+        "borderHeight": 1024
+    },
+    "displayList": [
+        {
+            "type": "Container",
+            "id": "ec2de161-6ce6-494d-9f2d-aa162b009c36",
+            "label": "container_1",
+            "x": 702,
+            "y": 585,
+            "list": [
+                {
+                    "type": "Rectangle",
+                    "id": "024f1e0a-5cf3-41fa-aec5-7e4ebfabc4da",
+                    "label": "rectangle_1",
+                    "hitArea.shape": "RECTANGLE",
+                    "hitArea.width": 468,
+                    "hitArea.height": 104,
+                    "x": 234,
+                    "y": 52,
+                    "isFilled": true,
+                    "fillColor": "0x2f9b16",
+                    "strokeColor": "0xa8ff3c",
+                    "lineWidth": 4,
+                    "width": 468,
+                    "height": 104,
+                    "rounded": 25
+                },
+                {
+                    "type": "Text",
+                    "id": "10bca2d0-d457-4d24-987c-d12d0d537464",
+                    "label": "text_1",
+                    "x": 222,
+                    "y": 51,
+                    "originX": 0.5,
+                    "originY": 0.5,
+                    "text": "PLAY",
+                    "align": "center",
+                    "fontFamily": "Helvetica",
+                    "fontSize": "72px",
+                    "fontStyle": "bold",
+                    "stroke": "#033b017f",
+                    "strokeThickness": 2.5
+                }
+            ]
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor - Scene Editor",
+        "url": "https://phaser.io/editor",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 5
+    }
+}
